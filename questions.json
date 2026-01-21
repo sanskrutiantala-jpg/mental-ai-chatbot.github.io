@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "category": "Academic Stress",
+        "question": "Assignment submit karne ke baad bhi kya aapko lagta hai ki wo galat hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Kabhi kabhi",
+            "c": "Hamesha"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 2,
+        "category": "Academic Stress",
+        "question": "Kya exam ki date paas aate hi aap panic feel karte hain?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thoda",
+            "c": "Bahut zyada"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 3,
+        "category": "Academic Stress",
+        "question": "Kya padhai mein focus karna mushkil ho gaya hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thodi der baad",
+            "c": "Haan, dimaag sunn pad jata hai"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 4,
+        "category": "Social Anxiety",
+        "question": "Kya naye logon se baat karne mein ghabrahat hoti hai?",
+        "options": {
+            "a": "Bilkul nahi",
+            "b": "Thodi",
+            "c": "Haan, bahut"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 5,
+        "category": "Social Anxiety",
+        "question": "Kya aapko lagta hai dost aapko judge kar rahe hain?",
+        "options": {
+            "a": "Nahi",
+            "b": "Kabhi kabhi",
+            "c": "Hamesha"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 6,
+        "category": "Social Anxiety",
+        "question": "Kya aap social events avoid karte hain?",
+        "options": {
+            "a": "Nahi",
+            "b": "Mood par depend karta hai",
+            "c": "Haan, darr lagta hai"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 7,
+        "category": "Sleep Issues",
+        "question": "Pichle hafte aapki neend kaisi thi?",
+        "options": {
+            "a": "Achi",
+            "b": "Disturbed",
+            "c": "Bilkul nahi so paya"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 8,
+        "category": "Sleep Issues",
+        "question": "Kya subah uthne ke baad bhi thakan lagti hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thodi",
+            "c": "Bahut zyada"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 9,
+        "category": "Low Confidence",
+        "question": "Kya aapko lagta hai ki aap kisi kaam ke nahi hain?",
+        "options": {
+            "a": "Nahi",
+            "b": "Kabhi kabhi",
+            "c": "Aksar"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 10,
+        "category": "Low Confidence",
+        "question": "Kya aap apni galtiyon ke liye khud ko blame karte hain?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thoda",
+            "c": "Haan, bahut"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 11,
+        "category": "Family Pressure",
+        "question": "Kya parents ki ummeedon ka bojh mehsoos hota hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Kabhi kabhi",
+            "c": "Haan, hamesha"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 12,
+        "category": "Future Anxiety",
+        "question": "Kya career ke baare mein soch kar panic hota hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thoda",
+            "c": "Haan, bahut"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 13,
+        "category": "Digital Addiction",
+        "question": "Kya phone chalane ki wajah se aapka kaam ruk jata hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Kabhi kabhi",
+            "c": "Haan, control nahi hai"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 14,
+        "category": "Loneliness",
+        "question": "Kya aapko bheed mein bhi akela feel hota hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Shayad",
+            "c": "Haan, aksar"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 15,
+        "category": "Anger Issues",
+        "question": "Kya stress mein aapko chhoti baaton par gussa aata hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thoda",
+            "c": "Haan, control nahi hota"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 16,
+        "category": "Relationship Issues",
+        "question": "Kya relationship ya breakup ki wajah se padhai disturb ho rahi hai?",
+        "options": {
+            "a": "Nahi",
+            "b": "Thoda focus hila hai",
+            "c": "Haan, kuch bhi karne ka mann nahi karta"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 17,
+        "category": "Relationship Issues",
+        "question": "Kya aapko relationship mein ghutan (suffocation) ya darr lagta hai?",
+        "options": {
+            "a": " me relationship me Nahi hu i am single ",
+            "b": "Kabhi kabhi",
+            "c": "Haan, main drained feel karta hu"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    },
+    {
+        "id": 18,
+        "category": "Relationship Issues",
+        "question": "Kya aap apni feelings partner ke sath khul ke share nahi kar paate?",
+        "options": {
+            "a": "Main share karta hu",
+            "b": "Darr lagta hai ki wo kya sochenge",
+            "c": "Bilkul nahi kar pata"
+        },
+        "scores": {
+            "a": 0,
+            "b": 1,
+            "c": 3
+        }
+    }
+]
